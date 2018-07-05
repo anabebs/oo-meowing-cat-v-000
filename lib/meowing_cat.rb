@@ -5,6 +5,6 @@ class Cat
 maru.name = "Maru"
  
 maru.name
-# => "Maru"
+
  
 maru.meow
